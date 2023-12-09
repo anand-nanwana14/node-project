@@ -2,6 +2,10 @@
 
 
 Absolutely! Below is a template for a README file that you can use to document your project:
+**ARCHITECTURE**
+
+![NodeJS-Assignment drawio](https://github.com/anand-nanwana14/node-project/assets/121349107/9b4dcdf7-d51d-4f86-ab6a-4622781d02a0)
+
 
 **Project Name**
 
