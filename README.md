@@ -13,6 +13,11 @@ Absolutely! Below is a template for a README file that you can use to document y
 
 ![Screenshot (178)](https://github.com/anand-nanwana14/Automation/assets/121349107/46fa4528-eeb7-4d8a-b09f-fb1ab9a0acf7)
 
+**Image Pushed to DockerHub By CI**
+
+
+![Screenshot (180)](https://github.com/anand-nanwana14/Automation/assets/121349107/26102e8c-8d3d-4425-ad2a-5549fd34a561)
+
 
 
 **Project Name**
