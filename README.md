@@ -56,6 +56,11 @@ Provide a high-level overview of the project, its purpose, and what it aims to a
 
 Highlight the key features and functionalities of your project. This can include CRUD operations, specific functionalities provided by the API, etc.
 
+**Continously Image is pushed to dockerhub whenever the code is commited to repo**
+
+![Screenshot (181)](https://github.com/anand-nanwana14/Automation/assets/121349107/f7204cdd-8fa6-4cff-9a81-f2cf5dd38bf1)
+
+
 **Technologies Used**
 
 List the technologies, frameworks, and tools used in your project. For example:
