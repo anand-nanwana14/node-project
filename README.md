@@ -3,6 +3,35 @@
 
 Absolutely! Below is a template for a README file that you can use to document your project:
 
+**Project Name**
+
+Node-Backend-Service 
+
+**Table of Contents**
+
+Architecture
+
+Introduction
+
+Features
+
+Technologies Used
+
+Setup
+
+Usage
+
+API Endpoints
+
+Contributing
+
+License
+
+Introduction
+
+Provide a high-level overview of the project, its purpose, and what it aims to achieve. Include any relevant background information or context.
+
+
 **ARCHITECTURE**
 
 
@@ -20,22 +49,8 @@ Absolutely! Below is a template for a README file that you can use to document y
 
 
 
-**Project Name**
 
-Node-Backend-Service 
 
-**Table of Contents**
-
-Introduction
-Features
-Technologies Used
-Setup
-Usage
-API Endpoints
-Contributing
-License
-Introduction
-Provide a high-level overview of the project, its purpose, and what it aims to achieve. Include any relevant background information or context.
 
 **Features**
 
