@@ -4,9 +4,11 @@
 Absolutely! Below is a template for a README file that you can use to document your project:
 
 **Project Name**
+
 Node-Backend-Service 
 
 **Table of Contents**
+
 Introduction
 Features
 Technologies Used
@@ -19,9 +21,11 @@ Introduction
 Provide a high-level overview of the project, its purpose, and what it aims to achieve. Include any relevant background information or context.
 
 **Features**
+
 Highlight the key features and functionalities of your project. This can include CRUD operations, specific functionalities provided by the API, etc.
 
 **Technologies Used**
+
 List the technologies, frameworks, and tools used in your project. For example:
 
 Node.js
@@ -35,9 +39,11 @@ Setup
 Provide step-by-step instructions on how to set up and run the project locally. Include any prerequisites and installation steps required to get the project running on a local machine.
 
 **Usage**
+
 Explain how to use the application or interact with the API. Provide examples or code snippets if applicable.
 
 **API Endpoints**
+
 Document the available API endpoints, their functionalities, expected request and response formats, and any necessary parameters.
 
 Endpoint	Method	Description	Request Body	Response
