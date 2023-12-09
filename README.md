@@ -68,10 +68,8 @@ List the technologies, frameworks, and tools used in your project. For example:
 Node.js
 Python
 Express (for Node.js)
-Flask (for Python)
 Docker
 MongoDB (for Node.js)
-SQLite (for Python)
 Setup
 Provide step-by-step instructions on how to set up and run the project locally. Include any prerequisites and installation steps required to get the project running on a local machine.
 
@@ -83,10 +81,6 @@ Explain how to use the application or interact with the API. Provide examples or
 
 Document the available API endpoints, their functionalities, expected request and response formats, and any necessary parameters.
 
-Endpoint	Method	Description	Request Body	Response
-/api/endpoint	GET	Description of endpoint	-	Sample JSON
-Contributing
-Provide guidelines for contributing to the project, including how to report bugs, suggest enhancements, or submit pull requests.
 
 **License**
 Indicate the project's license and any other relevant information about usage and distribution.
