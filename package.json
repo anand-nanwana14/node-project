@@ -10,6 +10,6 @@
   "scripts": {
     "start": "node app.js"
   },
-  "author": "anand nanwana",
+  "author": "anandnanwana",
   "license": "MIT"
 }
