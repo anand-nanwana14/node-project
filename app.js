@@ -8,7 +8,7 @@ mongoose.connect('mongodb://mongo:27017/mydatabase', { useNewUrlParser: true, us
   .then(() => console.log('MongoDB connected'))
   .catch(err => console.error('Error connecting to MongoDB:', err));
 
-// Your routes and CRUD operations go here
+// Your routes and CRUD operations here
 
 const PORT = 3000;
 app.listen(PORT, () => {
