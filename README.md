@@ -1,2 +1,2 @@
 #CI Pipeline 
-pipeline for jenkins 
+pipeline 
